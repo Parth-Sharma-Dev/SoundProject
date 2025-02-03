@@ -12,8 +12,7 @@ This is a Python-based music player application built using **Tkinter** for the 
 
 ## Demo
 
-![App Screenshot]([Screenshot 2025-02-03 094507](https://github.com/user-attachments/assets/9569d192-ffd1-4b85-b1d6-fbdd56607a01)
-t.png)  <!-- Add a screenshot of your app if available -->
+![App Screenshot](https://github.com/user-attachments/assets/9569d192-ffd1-4b85-b1d6-fbdd56607a01)  <!-- Add a screenshot of your app if available -->
 
 ## Requirements
 
